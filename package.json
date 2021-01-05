@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "@babel/runtime-corejs3": "^7.6.3",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "color": "^3.1.2",
     "fetch-retry": "^2.2.3",
     "isomorphic-unfetch": "^3.0.0",
